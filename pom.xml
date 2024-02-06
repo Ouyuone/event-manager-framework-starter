@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.my</groupId>
-    <artifactId>event-manager-framework</artifactId>
+    <artifactId>event-manager-framework-starter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>event-manager-framework</name>
-    <description>event-manager-framework</description>
+    <name>event-manager-framework-starter</name>
+    <description>event-manager-framework-starter</description>
     <properties>
         <java.version>17</java.version>
         <spring-boot.version>2.7.9</spring-boot.version>
