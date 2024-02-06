@@ -1,0 +1,4 @@
+# ????
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.my.framework.eventbus.EventBusAutoConfiguration,\
+  com.my.framework.eventbus.KafkaEventBusConfiguration
